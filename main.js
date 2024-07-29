@@ -264,7 +264,7 @@ async function buildScene(scene_data, highestPoint, lowestPoint) {
     .style('font-weight', 'bold')
     .style('fill', 'black')
     .text(
-      `Estimated percentage of people married from 2005 - 2017 (Demographic: ${scene_data[0].Age_Group})`
+      `Estimated percentage of people married in the US from 2005 - 2017 (Demographic: ${scene_data[0].Age_Group})`
     );
 
   chart.append('g').attr('transform', `translate(0,${height})`).call(xAxis);
@@ -430,7 +430,7 @@ async function buildEndScene(scene_data, tooltipnum) {
     .style('font-weight', 'bold')
     .style('fill', 'black')
     .text(
-      `Estimated percentage of people married from 2005 - 2017 (Demographic: ${scene_data[0].Age_Group})`
+      `Estimated percentage of people married in the US from 2005 - 2017 (Demographic: ${scene_data[0].Age_Group})`
     );
 
   chart.append('g').attr('transform', `translate(0,${height})`).call(xAxis);
