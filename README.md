@@ -1,8 +1,8 @@
 # CS 416 - Narrative Visualization Project
-## Marital Trends Across Age Groups: Analyzing Percentage Changes from 2005 to 2017
+## Marital Trends Across Age Groups in the US: Analyzing Percentage Changes from 2005 to 2017
 
 ### Description
-This project visualizes marital trends across 3 different age groups from 2005 to 2017.
+This project visualizes marital trends in the US across 3 different age groups from 2005 to 2017.
 
 ### Scenes
 - Scene 1: Married Males and Females Ages 15 - 34
